@@ -1,0 +1,20 @@
+.carousel-container {
+    width: 80%;
+    margin: auto;
+}
+
+.carousel-slide {
+    text-align: center;
+}
+
+.carousel-slide img {
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+    object-fit:cover;
+}
+
+.carousel-slide h3 {
+    margin-top: 0.5rem;
+    font-size: 1.5rem;
+}
